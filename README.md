@@ -115,7 +115,7 @@ Test Accuracy: .9040, Test Precision: .9055, Test Recall: .9040, Test F1: .9045
 - Tensorflow Model’s performance -
 Accuracy: 0.9741, Validation Accuracy: 0.9883
 
-**Test both my best scikit-learn model and my best Tensorflow neural network model on my Stremlit app by clicking here:**
+**Test my best scikit-learn model on my Stremlit app by clicking here:**
 (https://share.streamlit.io/jerrymontes/mx_political_party_tweet_classification_app/main/app.py)
 
 ### Recommendations:
